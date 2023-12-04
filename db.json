@@ -1,9 +1,87 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "accountList": [
+    {
+      "id": "ffaad469-211c-43ff-8e05-aff118bf6c41",
+      "email": "auaasa@as.com",
+      "password": "4VBdGwsiJxPqmK1U"
+    },
+    {
+      "id": "6c391fe8-c202-435f-ab91-b7806bab0f2d",
+      "email": "tkuzmn@totallosolusi.com",
+      "password": "yFyKPa3VkjWiGshO"
+    },
+    {
+      "id": "499f864b-ef4c-42f9-9011-12a6eb90db4a",
+      "email": "sametcan16@food4thoughtcuisine.com",
+      "password": "vXdPII45N6zxPN0K"
+    },
+    {
+      "id": "45d2cc2e-898f-4fed-ab31-d657b2c528bb",
+      "email": "zhigaaaaylya@24hinbox.com",
+      "password": "yvOCkHTgv5jqZDWw"
+    },
+    {
+      "id": "8059dc3e-207b-4fcf-a3e3-2ea6490d7c07",
+      "email": "hardass12@store.com",
+      "password": "X4LrAh30x0L7GJw5"
+    },
+    {
+      "id": "04457c37-3ee6-426b-bee9-2b1d79d269ed",
+      "email": "ilmioa@electricistaurgente.com",
+      "password": "dXb5k1rTHn07rYiC"
+    },
+    {
+      "id": "1c880269-15fb-4943-8a09-55aec59295ce",
+      "email": "gilrechmoung@jvsjzndo.com",
+      "password": "xH6fh4FuhYuI9mKg"
+    },
+    {
+      "id": "641452ae-48c2-406b-a377-31e89142e4c7",
+      "email": "koromka5@chuacotsong.com",
+      "password": "uBcfD1RxsAY"
+    },
+    {
+      "id": "d7b47b0a-4706-41c9-848a-583122b6ad2b",
+      "email": "billbuffington@depanjaloe.com",
+      "password": "GGZTO8dGv5cfVqch"
+    },
+    {
+      "id": "5c3de7a1-3bf7-43b5-a8e0-ed9d9a0c9fec",
+      "email": "kiskamup@rapidbeos.com",
+      "password": "9Kl7GpFSzG5kuOnz"
+    },
+    {
+      "id": "8b052843-3e19-4c8e-bff7-b6f1cafbf788",
+      "email": "robsongalieta@ahmosalahgood.com",
+      "password": "gxqscMVbJ0vhmt4G"
+    },
+    {
+      "id": "6504a8a3-47f5-4524-b050-aeffd1dc7b81",
+      "email": "jav7735@accutaneonlinesure.com",
+      "password": "aqoTGWUhhGdXAyxv"
+    },
+    {
+      "id": "a630ae2f-ac58-4a7e-bfb6-ad556fa47462",
+      "email": "sixfagxv@accutaneonlinesure.com",
+      "password": "0y1OAkgwqX26OIo3"
+    },
+    {
+      "email": "bgwdbbb@gfd.com",
+      "password": "asdqwezxc123",
+      "id": "jHc1G2r"
+    },
+    {
+      "id": "NMZKIpk",
+      "email": "handed@dfcs.com",
+      "password": "qsc123qscc"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "productList": [
+    {
+      "name": "辣炒年糕",
+      "price": "80",
+      "material": "",
+      "id": "SfDmF8i"
+    }
+  ]
 }
